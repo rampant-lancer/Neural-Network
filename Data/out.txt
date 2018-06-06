@@ -1,0 +1,261 @@
+
+========== Initial Weights ==========
+
+========== Weights Are Printed In The Direction Of Output From Input ==========
+
+========== Printing Weights ==========
+0.680375	-0.211234	0.566198	
+0.596880	0.823295	-0.604897	
+-0.329554	0.536459	-0.444451	
+0.107940	-0.045206	0.257742	
+-0.270431	0.026802	0.904459	
+0.832390	0.271423	0.434594	
+-0.716795	0.213938	-0.967399	
+-0.514226	-0.725537	0.608353	
+-0.686642	-0.198111	-0.740419	
+-0.782382	0.997849	-0.563486	
+0.025865	0.678224	0.225280	
+-0.407937	0.275105	0.048574	
+-0.012834	0.945550	-0.414966	
+0.542715	0.053490	0.539828	
+-0.199543	0.783059	-0.433371	
+-0.295083	0.615449	0.838053	
+-0.860489	0.898654	0.051991	
+-0.827888	-0.615572	0.326454	
+0.780465	-0.302214	-0.871657	
+-0.959954	-0.084597	-0.873808	
+
+========== Printing Weights ==========
+-0.523440	0.941268	0.804416	0.701840	-0.466668	0.079521	-0.249586	0.520497	0.025071	0.335448	0.063213	-0.921439	-0.124725	0.863670	0.861620	0.441905	-0.431413	0.477069	0.279958	-0.291903	0.375723	
+-0.668052	-0.119791	0.760150	0.658402	-0.339326	-0.542064	0.786745	-0.299280	0.373340	0.912936	0.177280	0.314608	0.717353	-0.120880	0.847940	-0.203127	0.629534	0.368437	0.821944	-0.035019	-0.568350	
+
+========== Final Weights ==========
+
+========== Weights Are Printed In The Direction Of Output From Input ==========
+
+========== Printing Weights ==========
+6.644196	2.610501	-1.716192	
+4.987136	-1.899651	-2.717220	
+3.579701	0.357118	-2.255861	
+3.668408	-1.536407	-2.294899	
+-1.994470	0.053560	-0.378438	
+4.643747	-1.846653	-2.760510	
+-1.367028	0.067766	-0.393646	
+-1.951654	0.054029	-0.375997	
+-1.714571	0.057769	-0.372562	
+-2.162969	0.052289	-0.394382	
+4.717648	0.161321	-2.886186	
+-1.513032	0.062750	-0.381365	
+4.894353	2.094558	-2.341053	
+5.732730	2.288549	-2.369968	
+3.845675	-1.254178	-2.367332	
+3.516750	-1.548812	-2.243426	
+-2.612188	0.053534	-0.498736	
+-2.655969	0.054040	-0.514490	
+6.699689	-2.547194	-2.128389	
+-2.475862	0.052407	-0.456259	
+
+========== Printing Weights ==========
+-12.009707	3.771338	3.023288	0.503569	0.072844	-1.367478	1.292132	-0.475329	-1.341549	-0.505869	-0.708584	-0.007598	-1.233369	2.395165	2.777514	1.077665	-0.502702	-0.178827	-0.398068	4.310668	-0.061153	
+12.032167	-4.056546	-2.444767	0.315540	-1.025307	0.576938	-1.064133	0.070840	1.435339	1.178267	0.319945	-0.807833	1.262241	-2.652227	-2.202778	-1.061310	0.945687	0.508239	1.114323	-4.493310	-0.669995	
+1	Correct!
+2	Correct!
+3	Correct!
+4	Correct!
+5	Correct!
+6	Correct!
+7	Correct!
+8	Correct!
+9	Correct!
+10	Correct!
+11	Correct!
+12	Correct!
+13	Correct!
+14	Correct!
+15	Correct!
+16	Correct!
+17	Correct!
+18	Correct!
+19	Correct!
+20	Correct!
+21	Correct!
+22	Correct!
+23	Correct!
+24	Correct!
+25	Correct!
+26	Correct!
+27	Correct!
+28	Correct!
+29	Correct!
+30	Correct!
+31	Correct!
+32	Correct!
+33	Correct!
+34	Correct!
+35	Correct!
+36	Correct!
+37	Correct!
+38	Correct!
+39	Correct!
+40	Correct!
+41	Correct!
+42	Correct!
+43	Correct!
+44	Correct!
+45	Correct!
+46	Correct!
+47	Correct!
+48	Correct!
+49	Correct!
+50	Correct!
+51	Correct!
+52	Correct!
+53	Correct!
+54	Wrong!
+55	Correct!
+56	Correct!
+57	Correct!
+58	Correct!
+59	Correct!
+60	Correct!
+61	Correct!
+62	Correct!
+63	Correct!
+64	Correct!
+65	Correct!
+66	Correct!
+67	Correct!
+68	Correct!
+69	Correct!
+70	Correct!
+71	Correct!
+72	Correct!
+73	Correct!
+74	Correct!
+75	Correct!
+76	Correct!
+77	Correct!
+78	Correct!
+79	Correct!
+80	Correct!
+81	Correct!
+82	Correct!
+83	Correct!
+84	Correct!
+85	Correct!
+86	Correct!
+87	Correct!
+88	Correct!
+89	Correct!
+90	Correct!
+91	Correct!
+92	Correct!
+93	Correct!
+94	Correct!
+95	Correct!
+96	Correct!
+97	Correct!
+98	Correct!
+99	Correct!
+100	Correct!
+101	Correct!
+102	Correct!
+103	Correct!
+104	Correct!
+105	Correct!
+106	Correct!
+107	Correct!
+108	Correct!
+109	Correct!
+110	Correct!
+111	Correct!
+112	Correct!
+113	Correct!
+114	Correct!
+115	Correct!
+116	Correct!
+117	Correct!
+118	Correct!
+119	Correct!
+120	Correct!
+121	Correct!
+122	Correct!
+123	Correct!
+124	Correct!
+125	Correct!
+126	Correct!
+127	Correct!
+128	Correct!
+129	Correct!
+130	Correct!
+131	Correct!
+132	Correct!
+133	Correct!
+134	Correct!
+135	Correct!
+136	Correct!
+137	Correct!
+138	Correct!
+139	Correct!
+140	Correct!
+141	Correct!
+142	Correct!
+143	Correct!
+144	Correct!
+145	Correct!
+146	Correct!
+147	Correct!
+148	Correct!
+149	Correct!
+150	Correct!
+151	Correct!
+152	Correct!
+153	Correct!
+154	Correct!
+155	Correct!
+156	Correct!
+157	Correct!
+158	Correct!
+159	Correct!
+160	Correct!
+161	Correct!
+162	Correct!
+163	Correct!
+164	Correct!
+165	Correct!
+166	Correct!
+167	Correct!
+168	Correct!
+169	Correct!
+170	Correct!
+171	Correct!
+172	Correct!
+173	Correct!
+174	Correct!
+175	Correct!
+176	Correct!
+177	Correct!
+178	Correct!
+179	Correct!
+180	Correct!
+181	Correct!
+182	Correct!
+183	Correct!
+184	Correct!
+185	Correct!
+186	Correct!
+187	Correct!
+188	Correct!
+189	Correct!
+190	Correct!
+191	Correct!
+192	Correct!
+193	Correct!
+194	Correct!
+195	Correct!
+196	Correct!
+197	Correct!
+198	Correct!
+199	Correct!
+200	Correct!
+Total number of misclassification  = 1
